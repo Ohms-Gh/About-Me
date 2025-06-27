@@ -1,5 +1,5 @@
 # About-Me
-# 👋 Hi, I’m Ohms-Gh
+# 👋 Hi, I’m Bismark Asare
 
 ![Profile Banner](https://img.shields.io/badge/Frontend%20Developer-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <!-- Optional: Add a custom banner or use shields.io badges -->
 
